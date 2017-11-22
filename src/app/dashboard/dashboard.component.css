@@ -1,0 +1,20 @@
+.container {
+    height: calc(100vh - 73px);
+    display: table;
+    width: 100%;
+}
+.wrapper {
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+.container a {
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    background: url(/assets/gradient.jpg) repeat-x 0 0;
+    color: white;
+}
+.container a:hover{
+        background: grey;
+}

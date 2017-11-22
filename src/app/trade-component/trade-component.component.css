@@ -1,0 +1,15 @@
+.header {
+    height: 80px;
+    display: block;
+    width: 100%;
+    background: white;
+}
+.container{
+    display: block;
+    background: grey;
+    color: white;
+}
+.trade{
+    display: inline-block;
+    width:70%;
+}
