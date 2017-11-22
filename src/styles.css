@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+}
+nav{
+    background: url(/assets/gradient.jpg) repeat-x 0 0;
+    padding: 25px 80px; 
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
